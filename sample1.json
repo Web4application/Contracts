@@ -1,0 +1,9 @@
+{
+  "name": "Web4 Asset #1",
+  "description": "A unique Web4 asset minted on the blockchain.",
+  "image": "ipfs://QmExampleImageHash",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Generation", "value": "Genesis" }
+  ]
+}

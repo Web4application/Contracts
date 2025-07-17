@@ -1,0 +1,21 @@
+102.89.40.15
+
+DNS ALL records for: https://web4app.com
+
+DNS NS records:
+win23.herosite.pro
+ns2.web4app.com
+ns1.web4app.com
+win24.herosite.pro
+
+DNS A records:
+103.191.208.88
+
+DNS MX records:
+mail.web4app.com
+
+DNS TXT records:
+v=spf1 a mx include:relay.mailbaby.net ~all
+v=spf1 a mx include:relay.mailchannels.net ~all
+v=spf1 +a +mx +a:Ultimate.herosite.pro -all
+
